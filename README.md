@@ -1,16 +1,81 @@
-# React + Vite
+# 📚 Book Library App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Book Library application built using **React with Vite**.  
+The app allows users to browse books by category, view book details, and add new books using Redux for state management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Technologies Used
+- React
+- Vite
+- Redux Toolkit
+- React Router DOM
+- CSS
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Installation & Setup
 
-## Expanding the ESLint configuration
+Follow the steps below to run the project locally:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/mohittondre/Library-Management.git
+````
+
+### 2️⃣ Go to Project Directory
+
+```bash
+cd book-library
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Run the Application
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Open in Browser
+
+After running the command above, open:
+
+```
+http://localhost:5173
+```
+
+---
+
+## ✨ Features
+
+* Home page with book cards
+* Browse books by category
+* Search books by title or author
+* View detailed information of a book
+* Add new books using Redux
+* 404 Page Not Found handling
+
+---
+
+## 📁 Important Notes
+
+* This project is created using **Vite** as required.
+* Dummy data is used for books.
+* Do not upload the `node_modules` folder to GitHub.
+
+---
+
+## 👨‍💻 Author
+
+Mohit
+
+```
+
+---
