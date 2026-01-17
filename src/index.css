@@ -30,7 +30,7 @@ body {
 .home-details-btn {
   display: inline-block;
   margin-top: 10px;
-  background: #007bff;
+  background: #a9d3ff;
   color: white;
   padding: 6px 12px;
   text-decoration: none;
@@ -40,7 +40,7 @@ body {
 .add-book-container {
   max-width: 500px;
   margin: 40px auto;
-  background: white;
+  background: rgb(241, 221, 221);
   padding: 20px;
   border-radius: 10px;
 }

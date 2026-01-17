@@ -75,7 +75,3 @@ http://localhost:5173
 ## 👨‍💻 Author
 
 Mohit
-
-```
-
----
